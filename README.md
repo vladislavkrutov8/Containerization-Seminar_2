@@ -72,9 +72,8 @@
     sudo cat /sys/fs/cgroup/lxc.payload.testOne/mempry.max
 
 
+![Screenshot_8 2](https://github.com/vladislavkrutov8/Containerization-Seminar_2/assets/110223646/9828c0cb-f43b-459f-a131-5597f643e7ea)
 
-
-![Screenshot_8 1](https://github.com/vladislavkrutov8/Containerization-Seminar_2/assets/110223646/e93cce0c-8fa3-435b-9c0e-3fe156a7a2b7)
 
 
 Как мы видим, система пересчитала и выдала результат, где много цифр. Не пугаемся, это значение примерно равно 256 мб.
